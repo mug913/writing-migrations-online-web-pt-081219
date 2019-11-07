@@ -5,6 +5,7 @@ def change
     t.integer :grade
     t.string :birthday
   end
+end
 
 
 end
